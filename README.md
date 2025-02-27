@@ -10,7 +10,7 @@ I started out as a math enthusiast. I discovered coding and found it to be a who
 
 ### Current project 🧵
 
-**Pharmaverse/aNCA Package**: Contributing to the development and maintenance of the aNCA package, which is used for non-compartmental analysis in pharmacokinetics.
+**Pharmaverse/aNCA**: Contributing to the development and maintenance of the aNCA package, which is used for non-compartmental analysis in pharmacokinetics.
 
 <!--
 **lucyaspridis/lucyaspridis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
