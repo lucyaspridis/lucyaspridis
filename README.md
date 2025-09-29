@@ -1,6 +1,6 @@
 ### About me 🧿
 
-I started out as a math enthusiast. I discovered coding and found it to be a whole new way of solving problems—like taking the logic of math and transforming it into dynamic, real-world solutions.
+I started out as a maths enthusiast. Then I discovered coding and found it to be a whole new way of solving problems, by applying the logic I learned from maths and transforming it into dynamic, real-world solutions.
 
 ### Languages and softwares 🐍
 
