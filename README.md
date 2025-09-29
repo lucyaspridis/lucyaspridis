@@ -4,8 +4,8 @@ I started out as a math enthusiast. I discovered coding and found it to be a who
 
 ### Languages and softwares 🐍
 
-- **R programming**: Proficient, regularly use R for data analysis and visualisation. I’m comfortable applying it to a wide range of tasks and continue to leverage it in my current projects.
-- **R Shiny**: Currently exploring R Shiny and enjoying the process of learning to build interactive web apps with it.
+- **R programming**: Proficient, regularly use R for data analysis and visualisation. I’m comfortable applying it to a wide range of tasks and continue to leverage it in my current projects, including automation tasks.
+- **R Shiny**: Regularly using R Shiny to build an interactive web app collaboratively.
 - **Python programming**: Experienced, have used Python extensively for machine learning, data processing, and automation tasks.
 
 ### Current project 🧵
